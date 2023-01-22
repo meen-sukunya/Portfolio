@@ -1,4 +1,4 @@
-# pao_ying_chub
+# create pao_ying_chub funtion
 
 pao_ying_chub <- function() {  
   # print game rules
