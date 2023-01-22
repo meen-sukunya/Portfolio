@@ -9,7 +9,7 @@ Hi there! Welcome to my Portfolio where I gather all of the projects that I have
 - [Tableau](#tableau)
 
 ## SQL
-### 1. [Restaurant Database](https://github.com/meen-sukunya/Portfolio/blob/main/Restaurant%20Database.sql)
+### 1. [Restaurant Database](https://github.com/meen-sukunya/Portfolio/blob/main/SQL/Restaurant%20Database.sql)
 
 Create a database then use SQL statements to extract interesting data from the database.
 
