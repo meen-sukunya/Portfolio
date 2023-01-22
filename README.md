@@ -16,6 +16,7 @@ Create a database then use SQL statements to extract interesting data from the d
 ## Python
 
 ## R
+### 1. [Rock Paper Scissors Game](https://github.com/meen-sukunya/Portfolio/blob/main/R/Rock%20Paper%20Scissors%20Game.R)
 
 ## Power BI
 
