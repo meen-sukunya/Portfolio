@@ -18,6 +18,8 @@ Create a database then use SQL statements to extract interesting data from the d
 ## R
 ### 1. [Rock Paper Scissors Game](https://github.com/meen-sukunya/Portfolio/blob/main/R/Rock%20Paper%20Scissors%20Game.R)
 
+Create a basic function using R language to play the game “Rock Paper Scissors” versus the computer.
+
 ## Power BI
 
 ## Tableau
